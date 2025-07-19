@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Restaurant Demand Forecasting</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(to right, #f8f9fa, #e9ecef);
+        }
+
+        .hero {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            text-align: center;
+            padding: 0 20px;
+        }
+
+        h1 {
+            font-size: 3em;
+            color: #343a40;
+            margin-bottom: 10px;
+        }
+
+        p {
+            font-size: 1.2em;
+            color: #6c757d;
+            max-width: 600px;
+        }
+
+        .btn {
+            margin-top: 30px;
+            padding: 12px 30px;
+            font-size: 16px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+            transition: background-color 0.3s ease;
+        }
+
+        .btn:hover {
+            background-color: #0056b3;
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            font-size: 0.9em;
+            color: #adb5bd;
+        }
+    </style>
+</head>
+<body>
+
+<div class="hero">
+    <h1>Welcome to Food Demand Forecast</h1>
+    <p>Predict daily food demand for your restaurant based on time, weather, holidays, and customer patterns.</p>
+    <a href="/predict" class="btn">Start Prediction</a>
+</div>
+
+<footer>
+    &copy; {{ year }} Food Demand Forecasting App
+</footer>
+
+</body>
+</html>

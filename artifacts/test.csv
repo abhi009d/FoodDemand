@@ -1,0 +1,649 @@
+date,day_of_week,time_of_day,food_item,orders,temperature,rainfall_mm,holiday,local_event,promotion_active,restaurant_location,customer_footfall
+2025-07-14,Monday,Dinner,Grilled Chicken,36,29.2,1.9,0,0,0,Downtown,233
+2025-06-24,Tuesday,Breakfast,Burger,49,29.7,1.2,0,0,1,Mall,192
+2025-07-17,Thursday,Dinner,Pizza,37,36.0,1.1,0,1,0,Suburban,290
+2025-06-06,Friday,Breakfast,Pizza,32,25.6,1.9,0,0,0,Mall,252
+2025-07-23,Wednesday,Breakfast,Pizza,24,24.0,0.6,0,0,0,Suburban,430
+2025-06-20,Friday,Lunch,Pizza,43,28.9,0.0,0,0,0,Downtown,300
+2025-06-25,Wednesday,Breakfast,Grilled Chicken,25,25.6,0.0,0,0,0,Mall,289
+2025-06-23,Monday,Lunch,Pasta,72,30.1,0.6,0,0,0,Suburban,284
+2025-06-25,Wednesday,Dinner,Pizza,26,25.6,0.0,0,0,0,Downtown,262
+2025-07-11,Friday,Breakfast,Pasta,23,32.6,1.5,0,0,0,Downtown,170
+2025-06-05,Thursday,Lunch,Veg Salad,59,30.3,0.0,0,0,1,Downtown,438
+2025-07-24,Thursday,Lunch,Tacos,39,28.7,2.4,0,0,0,Suburban,194
+2025-06-26,Thursday,Breakfast,Veg Salad,38,26.6,3.4,0,1,0,Downtown,356
+2025-07-02,Wednesday,Dinner,Tacos,42,30.1,0.3,0,1,0,Suburban,223
+2025-06-06,Friday,Dinner,Grilled Chicken,25,25.6,1.9,0,0,0,Mall,252
+2025-06-16,Monday,Lunch,Pizza,63,24.3,0.0,0,0,1,Suburban,345
+2025-07-06,Sunday,Breakfast,Veg Salad,41,29.4,0.0,1,0,1,Downtown,254
+2025-06-13,Friday,Dinner,Pizza,35,22.6,0.0,0,1,0,Downtown,427
+2025-06-09,Monday,Dinner,Pizza,25,24.3,0.0,0,0,0,Mall,234
+2025-06-19,Thursday,Lunch,Pizza,44,29.2,1.7,0,1,0,Suburban,656
+2025-07-10,Thursday,Dinner,Tacos,45,27.3,0.8,0,0,1,Mall,243
+2025-07-20,Sunday,Lunch,Burger,52,30.7,2.7,1,0,1,Mall,268
+2025-07-29,Tuesday,Dinner,Grilled Chicken,21,28.2,0.6,0,0,0,Downtown,419
+2025-06-07,Saturday,Lunch,Grilled Chicken,41,28.1,2.9,1,0,0,Downtown,381
+2025-07-04,Friday,Breakfast,Tacos,25,30.4,0.7,0,0,0,Downtown,163
+2025-06-09,Monday,Lunch,Veg Salad,68,24.3,0.0,0,0,1,Suburban,243
+2025-07-02,Wednesday,Breakfast,Pasta,37,30.1,0.3,0,1,1,Mall,416
+2025-06-21,Saturday,Lunch,Pasta,48,29.8,1.2,1,0,0,Downtown,278
+2025-06-09,Monday,Dinner,Tacos,32,24.3,0.0,0,0,0,Mall,234
+2025-06-19,Thursday,Breakfast,Grilled Chicken,36,29.2,1.7,0,1,1,Downtown,251
+2025-07-18,Friday,Lunch,Veg Salad,58,31.3,0.0,0,1,1,Downtown,437
+2025-07-16,Wednesday,Dinner,Tacos,40,21.5,5.5,0,0,0,Downtown,288
+2025-07-21,Monday,Lunch,Grilled Chicken,53,24.7,1.0,0,0,0,Mall,289
+2025-06-01,Sunday,Breakfast,Veg Salad,46,29.5,0.8,1,0,1,Suburban,331
+2025-06-03,Tuesday,Dinner,Grilled Chicken,29,27.9,1.2,0,0,0,Suburban,416
+2025-06-04,Wednesday,Lunch,Pasta,70,28.9,0.3,0,0,1,Suburban,160
+2025-06-02,Monday,Lunch,Pizza,50,32.2,1.3,0,0,0,Downtown,384
+2025-07-07,Monday,Lunch,Pizza,65,24.9,0.7,0,1,0,Downtown,152
+2025-06-03,Tuesday,Lunch,Veg Salad,65,27.9,1.2,0,0,1,Suburban,416
+2025-06-27,Friday,Breakfast,Burger,41,29.6,1.6,0,0,1,Downtown,179
+2025-07-03,Thursday,Breakfast,Grilled Chicken,37,30.6,2.4,0,0,1,Mall,174
+2025-06-06,Friday,Breakfast,Tacos,37,25.6,1.9,0,0,0,Downtown,124
+2025-06-12,Thursday,Lunch,Pizza,49,28.3,0.0,0,1,0,Downtown,409
+2025-06-06,Friday,Lunch,Burger,51,25.6,1.9,0,0,0,Suburban,322
+2025-06-30,Monday,Breakfast,Grilled Chicken,33,29.3,0.4,0,0,0,Downtown,484
+2025-06-07,Saturday,Dinner,Grilled Chicken,30,28.1,2.9,1,0,0,Downtown,381
+2025-06-17,Tuesday,Dinner,Pasta,26,29.7,0.9,0,0,0,Suburban,342
+2025-06-27,Friday,Lunch,Grilled Chicken,46,29.6,1.6,0,0,0,Mall,319
+2025-07-26,Saturday,Dinner,Pizza,34,25.7,2.1,1,1,1,Downtown,324
+2025-07-27,Sunday,Breakfast,Veg Salad,31,29.6,2.8,1,0,1,Downtown,273
+2025-07-26,Saturday,Breakfast,Veg Salad,48,25.7,2.1,1,1,1,Mall,338
+2025-07-25,Friday,Breakfast,Veg Salad,30,29.8,0.4,0,1,0,Suburban,324
+2025-06-04,Wednesday,Breakfast,Pasta,22,28.9,0.3,0,0,0,Suburban,160
+2025-07-15,Tuesday,Breakfast,Burger,29,28.7,0.0,0,0,0,Mall,329
+2025-06-05,Thursday,Dinner,Burger,35,30.3,0.0,0,0,0,Mall,175
+2025-06-03,Tuesday,Dinner,Grilled Chicken,23,27.9,1.2,0,0,0,Mall,325
+2025-06-10,Tuesday,Breakfast,Tacos,20,29.6,0.0,0,0,0,Downtown,296
+2025-07-28,Monday,Lunch,Grilled Chicken,54,23.3,0.6,0,0,0,Downtown,405
+2025-06-04,Wednesday,Breakfast,Veg Salad,23,28.9,0.3,0,0,0,Suburban,160
+2025-07-21,Monday,Dinner,Pizza,28,24.7,1.0,0,0,0,Mall,289
+2025-07-21,Monday,Breakfast,Pizza,29,24.7,1.0,0,0,0,Mall,289
+2025-07-05,Saturday,Lunch,Veg Salad,52,27.4,0.0,1,0,0,Downtown,555
+2025-07-23,Wednesday,Breakfast,Pizza,31,24.0,0.6,0,0,0,Downtown,158
+2025-06-05,Thursday,Dinner,Tacos,38,30.3,0.0,0,0,0,Mall,175
+2025-06-23,Monday,Breakfast,Burger,44,30.1,0.6,0,0,1,Downtown,262
+2025-06-16,Monday,Lunch,Burger,55,24.3,0.0,0,0,0,Downtown,225
+2025-06-13,Friday,Lunch,Grilled Chicken,59,22.6,0.0,0,1,0,Mall,223
+2025-06-25,Wednesday,Lunch,Veg Salad,58,25.6,0.0,0,0,0,Downtown,262
+2025-07-26,Saturday,Dinner,Veg Salad,34,25.7,2.1,1,1,1,Suburban,389
+2025-07-26,Saturday,Dinner,Grilled Chicken,25,25.7,2.1,1,1,0,Mall,338
+2025-07-18,Friday,Breakfast,Burger,31,31.3,0.0,0,1,0,Mall,344
+2025-07-10,Thursday,Breakfast,Pizza,41,27.3,0.8,0,0,1,Downtown,246
+2025-06-15,Sunday,Dinner,Tacos,47,30.1,2.1,1,0,1,Mall,437
+2025-07-28,Monday,Lunch,Burger,50,23.3,0.6,0,0,0,Downtown,405
+2025-07-22,Tuesday,Breakfast,Pizza,36,23.4,1.1,0,0,1,Downtown,371
+2025-07-14,Monday,Lunch,Veg Salad,68,29.2,1.9,0,0,1,Downtown,233
+2025-07-01,Tuesday,Lunch,Pasta,45,26.4,2.0,0,0,0,Downtown,462
+2025-06-24,Tuesday,Lunch,Pizza,55,29.7,1.2,0,0,0,Downtown,350
+2025-06-01,Sunday,Dinner,Pizza,36,29.5,0.8,1,0,0,Downtown,188
+2025-07-08,Tuesday,Breakfast,Tacos,47,28.7,0.0,0,0,1,Mall,434
+2025-06-15,Sunday,Lunch,Pizza,61,30.1,2.1,1,0,1,Downtown,276
+2025-06-04,Wednesday,Lunch,Pizza,41,28.9,0.3,0,0,0,Downtown,252
+2025-06-19,Thursday,Breakfast,Tacos,32,29.2,1.7,0,1,1,Mall,220
+2025-06-20,Friday,Breakfast,Burger,30,28.9,0.0,0,0,0,Suburban,332
+2025-07-19,Saturday,Lunch,Pizza,44,30.6,1.1,1,0,0,Mall,337
+2025-07-26,Saturday,Breakfast,Veg Salad,27,25.7,2.1,1,1,0,Suburban,389
+2025-06-15,Sunday,Breakfast,Pizza,38,30.1,2.1,1,0,1,Suburban,319
+2025-07-23,Wednesday,Breakfast,Veg Salad,33,24.0,0.6,0,0,0,Downtown,158
+2025-06-01,Sunday,Dinner,Veg Salad,36,29.5,0.8,1,0,1,Suburban,331
+2025-06-27,Friday,Lunch,Pasta,63,29.6,1.6,0,0,1,Mall,319
+2025-07-25,Friday,Breakfast,Veg Salad,32,29.8,0.4,0,1,1,Downtown,318
+2025-07-28,Monday,Lunch,Burger,41,23.3,0.6,0,0,0,Suburban,351
+2025-06-02,Monday,Breakfast,Pasta,32,32.2,1.3,0,0,0,Mall,206
+2025-06-29,Sunday,Breakfast,Grilled Chicken,28,29.5,0.9,1,0,0,Downtown,405
+2025-06-28,Saturday,Lunch,Grilled Chicken,59,31.4,2.0,1,0,1,Suburban,399
+2025-06-02,Monday,Breakfast,Veg Salad,33,32.2,1.3,0,0,0,Mall,206
+2025-06-16,Monday,Lunch,Burger,56,24.3,0.0,0,0,0,Suburban,345
+2025-06-17,Tuesday,Dinner,Pizza,39,29.7,0.9,0,0,1,Downtown,261
+2025-06-10,Tuesday,Breakfast,Grilled Chicken,37,29.6,0.0,0,0,1,Mall,450
+2025-07-12,Saturday,Breakfast,Grilled Chicken,32,25.2,1.3,1,0,1,Mall,191
+2025-06-02,Monday,Lunch,Pasta,51,32.2,1.3,0,0,0,Suburban,162
+2025-06-27,Friday,Breakfast,Pizza,51,29.6,1.6,0,0,1,Downtown,179
+2025-06-10,Tuesday,Dinner,Pasta,27,29.6,0.0,0,0,0,Mall,450
+2025-06-04,Wednesday,Dinner,Pasta,38,28.9,0.3,0,0,1,Mall,356
+2025-07-01,Tuesday,Breakfast,Pasta,24,26.4,2.0,0,0,0,Downtown,462
+2025-07-15,Tuesday,Breakfast,Veg Salad,26,28.7,0.0,0,0,0,Suburban,291
+2025-06-17,Tuesday,Breakfast,Pasta,29,29.7,0.9,0,0,0,Downtown,261
+2025-06-09,Monday,Dinner,Pizza,43,24.3,0.0,0,0,0,Downtown,380
+2025-07-09,Wednesday,Breakfast,Tacos,28,29.4,4.1,0,1,0,Mall,421
+2025-07-11,Friday,Dinner,Pizza,40,32.6,1.5,0,0,1,Mall,523
+2025-06-20,Friday,Breakfast,Tacos,31,28.9,0.0,0,0,1,Suburban,332
+2025-07-03,Thursday,Breakfast,Pasta,28,30.6,2.4,0,0,0,Suburban,326
+2025-06-04,Wednesday,Dinner,Grilled Chicken,34,28.9,0.3,0,0,0,Downtown,252
+2025-07-16,Wednesday,Lunch,Grilled Chicken,54,21.5,5.5,0,0,0,Mall,219
+2025-07-01,Tuesday,Lunch,Grilled Chicken,45,26.4,2.0,0,0,0,Downtown,462
+2025-06-12,Thursday,Dinner,Pasta,23,28.3,0.0,0,1,0,Downtown,409
+2025-07-30,Wednesday,Lunch,Grilled Chicken,61,29.2,0.4,0,1,1,Mall,220
+2025-07-01,Tuesday,Breakfast,Grilled Chicken,25,26.4,2.0,0,0,0,Suburban,139
+2025-06-23,Monday,Breakfast,Pizza,43,30.1,0.6,0,0,0,Suburban,284
+2025-06-28,Saturday,Lunch,Pizza,50,31.4,2.0,1,0,0,Mall,278
+2025-07-15,Tuesday,Dinner,Veg Salad,37,28.7,0.0,0,0,0,Suburban,291
+2025-07-04,Friday,Breakfast,Grilled Chicken,29,30.4,0.7,0,0,0,Downtown,163
+2025-06-21,Saturday,Lunch,Tacos,74,29.8,1.2,1,0,0,Suburban,236
+2025-06-09,Monday,Lunch,Grilled Chicken,65,24.3,0.0,0,0,1,Suburban,243
+2025-07-12,Saturday,Lunch,Burger,50,25.2,1.3,1,0,0,Mall,191
+2025-06-18,Wednesday,Breakfast,Tacos,25,33.2,1.5,0,1,0,Downtown,320
+2025-07-26,Saturday,Lunch,Grilled Chicken,66,25.7,2.1,1,1,1,Mall,338
+2025-06-07,Saturday,Lunch,Burger,51,28.1,2.9,1,0,0,Downtown,381
+2025-06-09,Monday,Breakfast,Grilled Chicken,29,24.3,0.0,0,0,0,Downtown,380
+2025-06-08,Sunday,Dinner,Burger,29,26.7,2.2,1,0,0,Mall,334
+2025-07-04,Friday,Lunch,Grilled Chicken,69,30.4,0.7,0,0,1,Mall,301
+2025-06-10,Tuesday,Lunch,Pizza,65,29.6,0.0,0,0,1,Mall,450
+2025-06-24,Tuesday,Dinner,Pasta,25,29.7,1.2,0,0,0,Mall,192
+2025-06-09,Monday,Lunch,Tacos,68,24.3,0.0,0,0,1,Mall,234
+2025-06-05,Thursday,Dinner,Pasta,29,30.3,0.0,0,0,0,Suburban,400
+2025-07-06,Sunday,Lunch,Pizza,46,29.4,0.0,1,0,0,Suburban,175
+2025-07-06,Sunday,Breakfast,Pasta,27,29.4,0.0,1,0,0,Mall,187
+2025-07-12,Saturday,Dinner,Grilled Chicken,26,25.2,1.3,1,0,0,Suburban,290
+2025-06-26,Thursday,Lunch,Veg Salad,62,26.6,3.4,0,1,1,Suburban,510
+2025-06-18,Wednesday,Dinner,Grilled Chicken,31,33.2,1.5,0,1,0,Suburban,246
+2025-06-14,Saturday,Breakfast,Pasta,35,25.4,0.8,1,0,0,Downtown,400
+2025-07-09,Wednesday,Dinner,Pasta,39,29.4,4.1,0,1,1,Mall,421
+2025-06-05,Thursday,Dinner,Pasta,31,30.3,0.0,0,0,0,Mall,175
+2025-06-24,Tuesday,Lunch,Pasta,45,29.7,1.2,0,0,0,Suburban,387
+2025-07-18,Friday,Breakfast,Grilled Chicken,26,31.3,0.0,0,1,0,Mall,344
+2025-06-18,Wednesday,Breakfast,Tacos,34,33.2,1.5,0,1,0,Suburban,246
+2025-06-01,Sunday,Dinner,Grilled Chicken,27,29.5,0.8,1,0,0,Suburban,331
+2025-06-28,Saturday,Breakfast,Tacos,48,31.4,2.0,1,0,1,Mall,278
+2025-06-05,Thursday,Lunch,Pasta,58,30.3,0.0,0,0,1,Mall,175
+2025-06-09,Monday,Lunch,Tacos,44,24.3,0.0,0,0,0,Downtown,380
+2025-06-03,Tuesday,Breakfast,Burger,48,27.9,1.2,0,0,1,Mall,325
+2025-07-29,Tuesday,Lunch,Pizza,64,28.2,0.6,0,0,1,Downtown,419
+2025-06-13,Friday,Lunch,Grilled Chicken,47,22.6,0.0,0,1,0,Downtown,427
+2025-06-18,Wednesday,Breakfast,Grilled Chicken,32,33.2,1.5,0,1,0,Suburban,246
+2025-07-08,Tuesday,Lunch,Burger,54,28.7,0.0,0,0,0,Downtown,296
+2025-07-16,Wednesday,Lunch,Pizza,48,21.5,5.5,0,0,0,Suburban,409
+2025-06-27,Friday,Lunch,Grilled Chicken,49,29.6,1.6,0,0,1,Suburban,274
+2025-07-25,Friday,Breakfast,Veg Salad,22,29.8,0.4,0,1,0,Mall,550
+2025-06-06,Friday,Breakfast,Pasta,25,25.6,1.9,0,0,0,Suburban,322
+2025-07-02,Wednesday,Breakfast,Grilled Chicken,28,30.1,0.3,0,1,0,Mall,416
+2025-07-08,Tuesday,Dinner,Pizza,30,28.7,0.0,0,0,0,Downtown,296
+2025-06-24,Tuesday,Lunch,Veg Salad,48,29.7,1.2,0,0,0,Downtown,350
+2025-06-25,Wednesday,Lunch,Pizza,50,25.6,0.0,0,0,0,Suburban,371
+2025-07-05,Saturday,Breakfast,Grilled Chicken,33,27.4,0.0,1,0,0,Suburban,365
+2025-07-13,Sunday,Breakfast,Veg Salad,27,29.1,1.1,1,0,0,Mall,361
+2025-06-20,Friday,Dinner,Burger,31,28.9,0.0,0,0,0,Mall,185
+2025-07-02,Wednesday,Lunch,Pasta,61,30.1,0.3,0,1,0,Mall,416
+2025-07-28,Monday,Dinner,Pasta,34,23.3,0.6,0,0,0,Downtown,405
+2025-06-06,Friday,Breakfast,Pasta,31,25.6,1.9,0,0,0,Mall,252
+2025-06-22,Sunday,Dinner,Tacos,31,30.0,0.0,1,0,0,Mall,405
+2025-06-21,Saturday,Lunch,Burger,59,29.8,1.2,1,0,0,Mall,240
+2025-06-12,Thursday,Dinner,Pizza,41,28.3,0.0,0,1,1,Downtown,409
+2025-06-27,Friday,Dinner,Tacos,35,29.6,1.6,0,0,0,Mall,319
+2025-07-05,Saturday,Breakfast,Grilled Chicken,35,27.4,0.0,1,0,0,Mall,234
+2025-06-15,Sunday,Dinner,Burger,37,30.1,2.1,1,0,0,Mall,437
+2025-06-25,Wednesday,Lunch,Pasta,44,25.6,0.0,0,0,0,Mall,289
+2025-06-25,Wednesday,Dinner,Burger,32,25.6,0.0,0,0,0,Downtown,262
+2025-06-01,Sunday,Dinner,Veg Salad,36,29.5,0.8,1,0,0,Downtown,188
+2025-06-06,Friday,Dinner,Tacos,28,25.6,1.9,0,0,0,Suburban,322
+2025-06-04,Wednesday,Dinner,Tacos,26,28.9,0.3,0,0,0,Downtown,252
+2025-06-26,Thursday,Breakfast,Tacos,35,26.6,3.4,0,1,0,Downtown,356
+2025-06-22,Sunday,Breakfast,Tacos,34,30.0,0.0,1,0,0,Suburban,133
+2025-07-19,Saturday,Lunch,Tacos,56,30.6,1.1,1,0,0,Downtown,387
+2025-06-05,Thursday,Breakfast,Grilled Chicken,23,30.3,0.0,0,0,0,Suburban,400
+2025-07-16,Wednesday,Dinner,Pasta,23,21.5,5.5,0,0,0,Mall,219
+2025-06-10,Tuesday,Breakfast,Pasta,46,29.6,0.0,0,0,1,Suburban,157
+2025-06-01,Sunday,Dinner,Grilled Chicken,33,29.5,0.8,1,0,0,Mall,205
+2025-07-20,Sunday,Dinner,Grilled Chicken,34,30.7,2.7,1,0,0,Downtown,378
+2025-06-12,Thursday,Breakfast,Burger,51,28.3,0.0,0,1,1,Suburban,296
+2025-07-03,Thursday,Lunch,Veg Salad,63,30.6,2.4,0,0,1,Downtown,272
+2025-06-15,Sunday,Breakfast,Burger,35,30.1,2.1,1,0,0,Downtown,276
+2025-06-20,Friday,Lunch,Veg Salad,56,28.9,0.0,0,0,1,Suburban,332
+2025-06-18,Wednesday,Breakfast,Pizza,24,33.2,1.5,0,1,0,Mall,389
+2025-06-13,Friday,Breakfast,Tacos,32,22.6,0.0,0,1,1,Mall,223
+2025-07-14,Monday,Lunch,Tacos,63,29.2,1.9,0,0,1,Downtown,233
+2025-06-04,Wednesday,Dinner,Veg Salad,33,28.9,0.3,0,0,0,Suburban,160
+2025-06-27,Friday,Dinner,Pasta,27,29.6,1.6,0,0,1,Suburban,274
+2025-06-20,Friday,Dinner,Grilled Chicken,27,28.9,0.0,0,0,0,Suburban,332
+2025-07-15,Tuesday,Lunch,Pasta,79,28.7,0.0,0,0,1,Mall,329
+2025-06-16,Monday,Dinner,Tacos,27,24.3,0.0,0,0,0,Suburban,345
+2025-07-16,Wednesday,Lunch,Tacos,56,21.5,5.5,0,0,1,Mall,219
+2025-06-11,Wednesday,Dinner,Veg Salad,26,25.8,0.0,0,0,0,Downtown,348
+2025-07-30,Wednesday,Lunch,Burger,52,29.2,0.4,0,1,0,Mall,220
+2025-07-30,Wednesday,Lunch,Pizza,29,29.2,0.4,0,1,0,Suburban,384
+2025-06-13,Friday,Lunch,Pasta,60,22.6,0.0,0,1,0,Suburban,503
+2025-06-20,Friday,Dinner,Grilled Chicken,40,28.9,0.0,0,0,1,Downtown,300
+2025-06-18,Wednesday,Dinner,Grilled Chicken,52,33.2,1.5,0,1,1,Mall,389
+2025-07-30,Wednesday,Lunch,Tacos,47,29.2,0.4,0,1,0,Mall,220
+2025-06-17,Tuesday,Lunch,Grilled Chicken,53,29.7,0.9,0,0,1,Downtown,261
+2025-07-03,Thursday,Dinner,Tacos,30,30.6,2.4,0,0,0,Mall,174
+2025-07-23,Wednesday,Breakfast,Burger,49,24.0,0.6,0,0,1,Mall,220
+2025-07-05,Saturday,Dinner,Grilled Chicken,45,27.4,0.0,1,0,1,Downtown,555
+2025-07-11,Friday,Lunch,Grilled Chicken,43,32.6,1.5,0,0,0,Mall,523
+2025-07-08,Tuesday,Dinner,Burger,33,28.7,0.0,0,0,1,Suburban,317
+2025-06-26,Thursday,Dinner,Pasta,23,26.6,3.4,0,1,0,Suburban,510
+2025-06-28,Saturday,Dinner,Grilled Chicken,28,31.4,2.0,1,0,0,Mall,278
+2025-06-14,Saturday,Breakfast,Tacos,28,25.4,0.8,1,0,0,Suburban,-1
+2025-06-30,Monday,Lunch,Grilled Chicken,53,29.3,0.4,0,0,0,Mall,416
+2025-06-24,Tuesday,Lunch,Tacos,62,29.7,1.2,0,0,1,Suburban,387
+2025-07-14,Monday,Dinner,Pizza,37,29.2,1.9,0,0,0,Mall,324
+2025-06-10,Tuesday,Breakfast,Pizza,24,29.6,0.0,0,0,0,Downtown,296
+2025-06-22,Sunday,Breakfast,Pasta,33,30.0,0.0,1,0,0,Mall,405
+2025-06-09,Monday,Lunch,Burger,49,24.3,0.0,0,0,0,Downtown,380
+2025-07-08,Tuesday,Breakfast,Veg Salad,30,28.7,0.0,0,0,0,Mall,434
+2025-06-28,Saturday,Lunch,Pizza,38,31.4,2.0,1,0,0,Downtown,381
+2025-07-18,Friday,Breakfast,Tacos,37,31.3,0.0,0,1,0,Downtown,437
+2025-06-15,Sunday,Breakfast,Tacos,23,30.1,2.1,1,0,0,Downtown,276
+2025-07-18,Friday,Breakfast,Burger,27,31.3,0.0,0,1,0,Downtown,437
+2025-07-21,Monday,Dinner,Grilled Chicken,30,24.7,1.0,0,0,0,Suburban,235
+2025-06-01,Sunday,Lunch,Pizza,71,29.5,0.8,1,0,1,Mall,205
+2025-06-27,Friday,Dinner,Grilled Chicken,45,29.6,1.6,0,0,1,Downtown,179
+2025-07-04,Friday,Dinner,Burger,27,30.4,0.7,0,0,0,Mall,301
+2025-07-24,Thursday,Lunch,Burger,52,28.7,2.4,0,0,0,Suburban,194
+2025-06-01,Sunday,Breakfast,Pizza,27,29.5,0.8,1,0,0,Mall,205
+2025-06-11,Wednesday,Lunch,Tacos,61,25.8,0.0,0,0,1,Suburban,163
+2025-07-29,Tuesday,Dinner,Grilled Chicken,33,28.2,0.6,0,0,1,Suburban,269
+2025-06-02,Monday,Breakfast,Tacos,36,32.2,1.3,0,0,1,Downtown,384
+2025-06-28,Saturday,Dinner,Veg Salad,41,31.4,2.0,1,0,1,Downtown,381
+2025-07-19,Saturday,Lunch,Tacos,51,30.6,1.1,1,0,0,Suburban,542
+2025-07-03,Thursday,Dinner,Pizza,46,30.6,2.4,0,0,1,Downtown,272
+2025-06-21,Saturday,Breakfast,Burger,21,29.8,1.2,1,0,0,Mall,240
+2025-07-09,Wednesday,Lunch,Burger,63,29.4,4.1,0,1,1,Mall,421
+2025-07-27,Sunday,Dinner,Veg Salad,34,29.6,2.8,1,0,1,Downtown,273
+2025-07-24,Thursday,Lunch,Veg Salad,59,28.7,2.4,0,0,0,Downtown,416
+2025-07-04,Friday,Breakfast,Burger,27,30.4,0.7,0,0,0,Suburban,370
+2025-07-08,Tuesday,Dinner,Tacos,29,28.7,0.0,0,0,0,Mall,434
+2025-07-11,Friday,Dinner,Veg Salad,43,32.6,1.5,0,0,1,Downtown,170
+2025-07-28,Monday,Dinner,Burger,33,23.3,0.6,0,0,1,Downtown,405
+2025-06-04,Wednesday,Breakfast,Veg Salad,27,28.9,0.3,0,0,0,Downtown,252
+2025-06-11,Wednesday,Dinner,Pasta,57,25.8,0.0,0,0,1,Mall,155
+2025-06-03,Tuesday,Breakfast,Veg Salad,21,27.9,1.2,0,0,0,Downtown,233
+2025-07-07,Monday,Lunch,Tacos,36,24.9,0.7,0,1,0,Downtown,152
+2025-06-19,Thursday,Lunch,Veg Salad,56,29.2,1.7,0,1,0,Suburban,656
+2025-06-09,Monday,Breakfast,Burger,25,24.3,0.0,0,0,0,Suburban,243
+2025-06-19,Thursday,Breakfast,Tacos,38,29.2,1.7,0,1,1,Suburban,656
+2025-07-21,Monday,Lunch,Tacos,47,24.7,1.0,0,0,0,Mall,289
+2025-06-19,Thursday,Breakfast,Burger,37,29.2,1.7,0,1,0,Suburban,656
+2025-07-18,Friday,Lunch,Pasta,55,31.3,0.0,0,1,0,Downtown,437
+2025-06-06,Friday,Lunch,Tacos,44,25.6,1.9,0,0,0,Suburban,322
+2025-07-07,Monday,Breakfast,Veg Salad,45,24.9,0.7,0,1,1,Downtown,152
+2025-07-14,Monday,Dinner,Pasta,31,29.2,1.9,0,0,0,Suburban,271
+2025-06-20,Friday,Lunch,Burger,44,28.9,0.0,0,0,0,Downtown,300
+2025-06-04,Wednesday,Lunch,Pizza,58,28.9,0.3,0,0,0,Mall,356
+2025-07-05,Saturday,Lunch,Grilled Chicken,46,27.4,0.0,1,0,0,Suburban,365
+2025-07-07,Monday,Lunch,Burger,43,24.9,0.7,0,1,0,Suburban,323
+2025-07-07,Monday,Dinner,Pasta,33,24.9,0.7,0,1,0,Downtown,152
+2025-07-14,Monday,Lunch,Grilled Chicken,53,29.2,1.9,0,0,0,Mall,324
+2025-07-09,Wednesday,Dinner,Veg Salad,38,29.4,4.1,0,1,1,Mall,421
+2025-06-28,Saturday,Breakfast,Pizza,36,31.4,2.0,1,0,0,Mall,278
+2025-07-25,Friday,Dinner,Burger,37,29.8,0.4,0,1,0,Mall,550
+2025-06-27,Friday,Dinner,Pizza,27,29.6,1.6,0,0,0,Downtown,179
+2025-07-01,Tuesday,Breakfast,Burger,26,26.4,2.0,0,0,0,Downtown,462
+2025-07-25,Friday,Lunch,Pizza,55,29.8,0.4,0,1,0,Suburban,324
+2025-06-01,Sunday,Breakfast,Tacos,25,29.5,0.8,1,0,0,Mall,205
+2025-07-19,Saturday,Breakfast,Tacos,27,30.6,1.1,1,0,0,Suburban,542
+2025-06-05,Thursday,Dinner,Burger,29,30.3,0.0,0,0,0,Downtown,438
+2025-07-07,Monday,Breakfast,Pasta,20,24.9,0.7,0,1,0,Mall,551
+2025-06-25,Wednesday,Breakfast,Pasta,30,25.6,0.0,0,0,0,Suburban,371
+2025-06-28,Saturday,Breakfast,Pizza,30,31.4,2.0,1,0,0,Suburban,399
+2025-07-02,Wednesday,Lunch,Grilled Chicken,45,30.1,0.3,0,1,0,Mall,416
+2025-06-15,Sunday,Dinner,Tacos,25,30.1,2.1,1,0,0,Suburban,319
+2025-07-28,Monday,Lunch,Tacos,64,23.3,0.6,0,0,1,Downtown,405
+2025-06-05,Thursday,Dinner,Pizza,31,30.3,0.0,0,0,0,Suburban,400
+2025-07-09,Wednesday,Lunch,Pasta,53,29.4,4.1,0,1,0,Mall,421
+2025-06-12,Thursday,Dinner,Grilled Chicken,23,28.3,0.0,0,1,0,Downtown,409
+2025-07-27,Sunday,Dinner,Veg Salad,32,29.6,2.8,1,0,0,Mall,427
+2025-07-21,Monday,Lunch,Pizza,48,24.7,1.0,0,0,0,Mall,289
+2025-06-07,Saturday,Breakfast,Veg Salad,32,28.1,2.9,1,0,1,Suburban,151
+2025-06-26,Thursday,Lunch,Pizza,41,26.6,3.4,0,1,0,Downtown,356
+2025-06-29,Sunday,Dinner,Grilled Chicken,26,29.5,0.9,1,0,0,Mall,403
+2025-07-14,Monday,Dinner,Pizza,26,29.2,1.9,0,0,0,Downtown,233
+2025-06-23,Monday,Lunch,Pasta,57,30.1,0.6,0,0,1,Downtown,262
+2025-07-02,Wednesday,Dinner,Burger,24,30.1,0.3,0,1,0,Suburban,223
+2025-07-11,Friday,Lunch,Pizza,50,32.6,1.5,0,0,0,Mall,523
+2025-06-07,Saturday,Lunch,Pasta,40,28.1,2.9,1,0,0,Suburban,151
+2025-06-01,Sunday,Breakfast,Burger,32,29.5,0.8,1,0,0,Downtown,188
+2025-06-13,Friday,Lunch,Veg Salad,48,22.6,0.0,0,1,0,Suburban,503
+2025-07-01,Tuesday,Breakfast,Grilled Chicken,42,26.4,2.0,0,0,1,Downtown,462
+2025-07-08,Tuesday,Lunch,Grilled Chicken,60,28.7,0.0,0,0,1,Downtown,296
+2025-06-08,Sunday,Breakfast,Tacos,39,26.7,2.2,1,0,1,Downtown,317
+2025-07-29,Tuesday,Lunch,Pasta,50,28.2,0.6,0,0,0,Downtown,419
+2025-06-06,Friday,Lunch,Pizza,41,25.6,1.9,0,0,0,Mall,252
+2025-07-23,Wednesday,Dinner,Burger,42,24.0,0.6,0,0,1,Mall,220
+2025-07-13,Sunday,Dinner,Tacos,26,29.1,1.1,1,0,0,Downtown,274
+2025-06-04,Wednesday,Lunch,Veg Salad,51,28.9,0.3,0,0,1,Mall,356
+2025-06-10,Tuesday,Breakfast,Burger,36,29.6,0.0,0,0,0,Downtown,296
+2025-06-06,Friday,Breakfast,Burger,41,25.6,1.9,0,0,0,Downtown,124
+2025-07-13,Sunday,Dinner,Pasta,23,29.1,1.1,1,0,0,Mall,361
+2025-06-24,Tuesday,Dinner,Burger,31,29.7,1.2,0,0,0,Downtown,350
+2025-06-12,Thursday,Dinner,Tacos,36,28.3,0.0,0,1,1,Downtown,409
+2025-06-03,Tuesday,Dinner,Pasta,31,27.9,1.2,0,0,0,Mall,325
+2025-06-08,Sunday,Breakfast,Burger,28,26.7,2.2,1,0,0,Mall,334
+2025-07-25,Friday,Lunch,Veg Salad,30,29.8,0.4,0,1,0,Suburban,324
+2025-06-14,Saturday,Dinner,Grilled Chicken,36,25.4,0.8,1,0,1,Mall,318
+2025-06-29,Sunday,Breakfast,Grilled Chicken,42,29.5,0.9,1,0,1,Mall,403
+2025-07-25,Friday,Lunch,Pasta,42,29.8,0.4,0,1,0,Downtown,318
+2025-07-22,Tuesday,Dinner,Pasta,23,23.4,1.1,0,0,0,Downtown,371
+2025-06-01,Sunday,Breakfast,Pizza,29,29.5,0.8,1,0,0,Suburban,331
+2025-06-04,Wednesday,Dinner,Pizza,32,28.9,0.3,0,0,0,Downtown,252
+2025-07-02,Wednesday,Lunch,Tacos,44,30.1,0.3,0,1,0,Downtown,426
+2025-07-05,Saturday,Lunch,Pasta,59,27.4,0.0,1,0,0,Mall,234
+2025-06-10,Tuesday,Dinner,Burger,32,29.6,0.0,0,0,0,Suburban,157
+2025-06-08,Sunday,Breakfast,Pizza,31,26.7,2.2,1,0,0,Suburban,391
+2025-06-21,Saturday,Dinner,Tacos,25,29.8,1.2,1,0,0,Mall,240
+2025-07-17,Thursday,Dinner,Tacos,27,36.0,1.1,0,1,0,Downtown,359
+2025-06-20,Friday,Lunch,Pasta,43,28.9,0.0,0,0,0,Suburban,332
+2025-07-10,Thursday,Lunch,Grilled Chicken,51,27.3,0.8,0,0,1,Downtown,246
+2025-07-13,Sunday,Dinner,Burger,30,29.1,1.1,1,0,0,Suburban,166
+2025-06-20,Friday,Lunch,Veg Salad,63,28.9,0.0,0,0,0,Mall,185
+2025-07-25,Friday,Breakfast,Burger,46,29.8,0.4,0,1,1,Suburban,324
+2025-07-25,Friday,Dinner,Grilled Chicken,30,29.8,0.4,0,1,0,Suburban,324
+2025-07-15,Tuesday,Dinner,Veg Salad,25,28.7,0.0,0,0,0,Mall,329
+2025-07-05,Saturday,Lunch,Pasta,48,27.4,0.0,1,0,0,Downtown,555
+2025-06-21,Saturday,Dinner,Pizza,26,29.8,1.2,1,0,0,Downtown,278
+2025-07-20,Sunday,Lunch,Grilled Chicken,61,30.7,2.7,1,0,1,Suburban,244
+2025-06-04,Wednesday,Dinner,Grilled Chicken,29,28.9,0.3,0,0,0,Suburban,160
+2025-06-24,Tuesday,Lunch,Burger,50,29.7,1.2,0,0,0,Suburban,387
+2025-07-08,Tuesday,Lunch,Pasta,42,28.7,0.0,0,0,0,Suburban,317
+2025-07-24,Thursday,Breakfast,Tacos,31,28.7,2.4,0,0,0,Downtown,416
+2025-06-22,Sunday,Breakfast,Pizza,26,30.0,0.0,1,0,0,Downtown,221
+2025-06-18,Wednesday,Dinner,Veg Salad,34,33.2,1.5,0,1,0,Downtown,320
+2025-07-28,Monday,Breakfast,Tacos,16,23.3,0.6,0,0,0,Downtown,405
+2025-06-18,Wednesday,Dinner,Tacos,33,33.2,1.5,0,1,0,Mall,389
+2025-06-07,Saturday,Breakfast,Burger,42,28.1,2.9,1,0,1,Downtown,381
+2025-07-20,Sunday,Lunch,Pasta,42,30.7,2.7,1,0,0,Suburban,244
+2025-06-13,Friday,Lunch,Pizza,59,22.6,0.0,0,1,0,Mall,223
+2025-06-05,Thursday,Breakfast,Veg Salad,32,30.3,0.0,0,0,0,Suburban,400
+2025-06-24,Tuesday,Dinner,Tacos,31,29.7,1.2,0,0,0,Suburban,387
+2025-06-26,Thursday,Breakfast,Grilled Chicken,39,26.6,3.4,0,1,0,Suburban,510
+2025-07-01,Tuesday,Breakfast,Pasta,31,26.4,2.0,0,0,0,Suburban,139
+2025-06-09,Monday,Breakfast,Burger,33,24.3,0.0,0,0,0,Downtown,380
+2025-06-12,Thursday,Breakfast,Burger,41,28.3,0.0,0,1,1,Downtown,409
+2025-07-26,Saturday,Breakfast,Grilled Chicken,29,25.7,2.1,1,1,0,Suburban,389
+2025-06-19,Thursday,Dinner,Burger,41,29.2,1.7,0,1,1,Mall,220
+2025-06-10,Tuesday,Lunch,Grilled Chicken,60,29.6,0.0,0,0,0,Suburban,157
+2025-07-26,Saturday,Lunch,Pizza,49,25.7,2.1,1,1,0,Suburban,389
+2025-06-17,Tuesday,Lunch,Grilled Chicken,54,29.7,0.9,0,0,0,Suburban,342
+2025-07-02,Wednesday,Lunch,Pizza,50,30.1,0.3,0,1,0,Mall,416
+2025-07-05,Saturday,Dinner,Tacos,31,27.4,0.0,1,0,0,Mall,234
+2025-07-21,Monday,Dinner,Veg Salad,45,24.7,1.0,0,0,1,Mall,289
+2025-06-16,Monday,Lunch,Tacos,43,24.3,0.0,0,0,1,Suburban,345
+2025-06-16,Monday,Dinner,Burger,27,24.3,0.0,0,0,0,Downtown,225
+2025-06-09,Monday,Lunch,Grilled Chicken,39,24.3,0.0,0,0,0,Downtown,380
+2025-07-07,Monday,Lunch,Pizza,50,24.9,0.7,0,1,0,Suburban,323
+2025-06-30,Monday,Breakfast,Tacos,22,29.3,0.4,0,0,0,Downtown,484
+2025-06-11,Wednesday,Lunch,Pasta,46,25.8,0.0,0,0,0,Downtown,348
+2025-07-06,Sunday,Dinner,Veg Salad,26,29.4,0.0,1,0,1,Mall,187
+2025-07-15,Tuesday,Dinner,Pasta,24,28.7,0.0,0,0,0,Mall,329
+2025-06-04,Wednesday,Lunch,Veg Salad,52,28.9,0.3,0,0,0,Downtown,252
+2025-07-26,Saturday,Breakfast,Pizza,24,25.7,2.1,1,1,0,Mall,338
+2025-06-08,Sunday,Breakfast,Pizza,24,26.7,2.2,1,0,1,Downtown,317
+2025-07-13,Sunday,Lunch,Tacos,56,29.1,1.1,1,0,0,Mall,361
+2025-06-21,Saturday,Lunch,Grilled Chicken,48,29.8,1.2,1,0,0,Mall,240
+2025-07-28,Monday,Dinner,Veg Salad,30,23.3,0.6,0,0,0,Suburban,351
+2025-07-19,Saturday,Lunch,Burger,52,30.6,1.1,1,0,1,Mall,337
+2025-06-20,Friday,Lunch,Tacos,54,28.9,0.0,0,0,1,Downtown,300
+2025-06-13,Friday,Dinner,Veg Salad,31,22.6,0.0,0,1,0,Suburban,503
+2025-07-10,Thursday,Breakfast,Veg Salad,33,27.3,0.8,0,0,0,Downtown,246
+2025-07-01,Tuesday,Breakfast,Pasta,45,26.4,2.0,0,0,0,Mall,230
+2025-06-12,Thursday,Lunch,Pasta,68,28.3,0.0,0,1,1,Downtown,409
+2025-06-26,Thursday,Lunch,Tacos,43,26.6,3.4,0,1,0,Suburban,510
+2025-06-23,Monday,Dinner,Grilled Chicken,33,30.1,0.6,0,0,0,Downtown,262
+2025-06-19,Thursday,Dinner,Veg Salad,35,29.2,1.7,0,1,0,Mall,220
+2025-06-13,Friday,Lunch,Tacos,42,22.6,0.0,0,1,0,Suburban,503
+2025-07-14,Monday,Dinner,Veg Salad,25,29.2,1.9,0,0,0,Suburban,271
+2025-06-17,Tuesday,Breakfast,Burger,50,29.7,0.9,0,0,0,Downtown,261
+2025-07-19,Saturday,Lunch,Pasta,58,30.6,1.1,1,0,1,Mall,337
+2025-06-12,Thursday,Lunch,Burger,52,28.3,0.0,0,1,0,Mall,340
+2025-07-24,Thursday,Lunch,Grilled Chicken,50,28.7,2.4,0,0,1,Mall,384
+2025-07-28,Monday,Breakfast,Veg Salad,28,23.3,0.6,0,0,0,Mall,320
+2025-06-23,Monday,Dinner,Pasta,40,30.1,0.6,0,0,1,Suburban,284
+2025-06-23,Monday,Breakfast,Tacos,31,30.1,0.6,0,0,0,Mall,440
+2025-06-06,Friday,Dinner,Grilled Chicken,34,25.6,1.9,0,0,0,Suburban,322
+2025-06-15,Sunday,Lunch,Pizza,62,30.1,2.1,1,0,1,Suburban,319
+2025-06-11,Wednesday,Lunch,Grilled Chicken,48,25.8,0.0,0,0,0,Downtown,348
+2025-07-19,Saturday,Breakfast,Veg Salad,42,30.6,1.1,1,0,1,Suburban,542
+2025-06-05,Thursday,Dinner,Veg Salad,30,30.3,0.0,0,0,0,Mall,175
+2025-06-27,Friday,Breakfast,Pasta,22,29.6,1.6,0,0,0,Suburban,274
+2025-06-04,Wednesday,Lunch,Pizza,63,28.9,0.3,0,0,0,Suburban,160
+2025-06-17,Tuesday,Breakfast,Veg Salad,34,29.7,0.9,0,0,1,Mall,311
+2025-07-28,Monday,Breakfast,Grilled Chicken,41,23.3,0.6,0,0,1,Mall,320
+2025-06-02,Monday,Lunch,Pizza,44,32.2,1.3,0,0,0,Suburban,162
+2025-06-06,Friday,Dinner,Grilled Chicken,39,25.6,1.9,0,0,1,Downtown,124
+2025-06-11,Wednesday,Dinner,Pizza,30,25.8,0.0,0,0,0,Downtown,348
+2025-07-22,Tuesday,Dinner,Pizza,31,23.4,1.1,0,0,0,Downtown,371
+2025-06-17,Tuesday,Breakfast,Pasta,32,29.7,0.9,0,0,0,Mall,311
+2025-07-20,Sunday,Breakfast,Burger,20,30.7,2.7,1,0,0,Downtown,378
+2025-06-16,Monday,Breakfast,Burger,58,24.3,0.0,0,0,1,Downtown,225
+2025-07-22,Tuesday,Lunch,Tacos,55,23.4,1.1,0,0,0,Downtown,371
+2025-07-06,Sunday,Lunch,Burger,59,29.4,0.0,1,0,1,Suburban,175
+2025-07-04,Friday,Lunch,Veg Salad,38,30.4,0.7,0,0,0,Downtown,163
+2025-06-05,Thursday,Lunch,Veg Salad,44,30.3,0.0,0,0,0,Suburban,400
+2025-06-08,Sunday,Breakfast,Veg Salad,28,26.7,2.2,1,0,0,Suburban,391
+2025-07-17,Thursday,Breakfast,Veg Salad,31,36.0,1.1,0,1,0,Downtown,359
+2025-06-07,Saturday,Dinner,Grilled Chicken,37,28.1,2.9,1,0,0,Mall,250
+2025-06-01,Sunday,Lunch,Grilled Chicken,48,29.5,0.8,1,0,0,Suburban,331
+2025-06-15,Sunday,Lunch,Veg Salad,59,30.1,2.1,1,0,0,Mall,437
+2025-07-17,Thursday,Breakfast,Grilled Chicken,48,36.0,1.1,0,1,1,Downtown,359
+2025-07-09,Wednesday,Dinner,Pasta,37,29.4,4.1,0,1,0,Downtown,509
+2025-07-17,Thursday,Lunch,Grilled Chicken,54,36.0,1.1,0,1,0,Mall,71
+2025-06-08,Sunday,Dinner,Veg Salad,39,26.7,2.2,1,0,1,Suburban,391
+2025-06-10,Tuesday,Lunch,Tacos,48,29.6,0.0,0,0,1,Mall,450
+2025-07-17,Thursday,Lunch,Tacos,48,36.0,1.1,0,1,0,Suburban,290
+2025-06-20,Friday,Breakfast,Tacos,25,28.9,0.0,0,0,0,Mall,185
+2025-06-08,Sunday,Lunch,Pizza,71,26.7,2.2,1,0,1,Mall,334
+2025-06-15,Sunday,Breakfast,Grilled Chicken,49,30.1,2.1,1,0,1,Mall,437
+2025-07-27,Sunday,Dinner,Tacos,42,29.6,2.8,1,0,1,Downtown,273
+2025-06-19,Thursday,Breakfast,Pasta,35,29.2,1.7,0,1,0,Mall,220
+2025-07-05,Saturday,Breakfast,Pasta,28,27.4,0.0,1,0,0,Downtown,555
+2025-07-01,Tuesday,Lunch,Veg Salad,43,26.4,2.0,0,0,0,Suburban,139
+2025-06-28,Saturday,Lunch,Veg Salad,49,31.4,2.0,1,0,0,Mall,278
+2025-07-13,Sunday,Breakfast,Grilled Chicken,27,29.1,1.1,1,0,0,Mall,361
+2025-07-09,Wednesday,Breakfast,Pizza,40,29.4,4.1,0,1,0,Mall,421
+2025-06-02,Monday,Lunch,Veg Salad,58,32.2,1.3,0,0,0,Downtown,384
+2025-06-13,Friday,Dinner,Tacos,28,22.6,0.0,0,1,0,Mall,223
+2025-06-20,Friday,Dinner,Tacos,28,28.9,0.0,0,0,0,Mall,185
+2025-06-13,Friday,Breakfast,Veg Salad,36,22.6,0.0,0,1,1,Suburban,503
+2025-06-15,Sunday,Dinner,Burger,29,30.1,2.1,1,0,0,Suburban,319
+2025-07-10,Thursday,Lunch,Pizza,45,27.3,0.8,0,0,0,Suburban,459
+2025-06-01,Sunday,Lunch,Veg Salad,61,29.5,0.8,1,0,1,Suburban,331
+2025-06-27,Friday,Breakfast,Burger,31,29.6,1.6,0,0,0,Suburban,274
+2025-07-15,Tuesday,Breakfast,Pasta,41,28.7,0.0,0,0,0,Downtown,314
+2025-07-14,Monday,Dinner,Grilled Chicken,37,29.2,1.9,0,0,1,Suburban,271
+2025-07-29,Tuesday,Dinner,Burger,42,28.2,0.6,0,0,1,Mall,420
+2025-06-28,Saturday,Dinner,Tacos,29,31.4,2.0,1,0,0,Suburban,399
+2025-06-11,Wednesday,Breakfast,Pizza,35,25.8,0.0,0,0,1,Downtown,348
+2025-06-02,Monday,Lunch,Pasta,58,32.2,1.3,0,0,0,Downtown,384
+2025-06-09,Monday,Dinner,Tacos,30,24.3,0.0,0,0,0,Downtown,380
+2025-07-26,Saturday,Dinner,Pizza,33,25.7,2.1,1,1,0,Mall,338
+2025-06-08,Sunday,Breakfast,Tacos,35,26.7,2.2,1,0,0,Mall,334
+2025-06-07,Saturday,Lunch,Burger,67,28.1,2.9,1,0,1,Suburban,151
+2025-07-01,Tuesday,Dinner,Veg Salad,39,26.4,2.0,0,0,0,Suburban,139
+2025-06-11,Wednesday,Dinner,Veg Salad,19,25.8,0.0,0,0,0,Suburban,163
+2025-06-04,Wednesday,Lunch,Pasta,73,28.9,0.3,0,0,1,Downtown,252
+2025-06-03,Tuesday,Lunch,Pizza,56,27.9,1.2,0,0,0,Downtown,233
+2025-07-27,Sunday,Lunch,Grilled Chicken,47,29.6,2.8,1,0,0,Downtown,273
+2025-07-30,Wednesday,Lunch,Burger,37,29.2,0.4,0,1,0,Suburban,384
+2025-07-20,Sunday,Lunch,Burger,72,30.7,2.7,1,0,1,Suburban,244
+2025-06-23,Monday,Breakfast,Burger,23,30.1,0.6,0,0,0,Suburban,284
+2025-07-14,Monday,Dinner,Burger,22,29.2,1.9,0,0,0,Suburban,271
+2025-07-26,Saturday,Breakfast,Burger,50,25.7,2.1,1,1,1,Downtown,324
+2025-06-30,Monday,Lunch,Pasta,56,29.3,0.4,0,0,0,Suburban,384
+2025-07-26,Saturday,Breakfast,Tacos,32,25.7,2.1,1,1,0,Downtown,324
+2025-07-23,Wednesday,Breakfast,Tacos,37,24.0,0.6,0,0,1,Downtown,158
+2025-07-18,Friday,Lunch,Burger,41,31.3,0.0,0,1,0,Mall,344
+2025-07-22,Tuesday,Dinner,Pizza,34,23.4,1.1,0,0,0,Mall,305
+2025-07-24,Thursday,Lunch,Pizza,43,28.7,2.4,0,0,0,Downtown,416
+2025-07-07,Monday,Lunch,Tacos,49,24.9,0.7,0,1,0,Suburban,323
+2025-06-18,Wednesday,Lunch,Pasta,47,33.2,1.5,0,1,0,Suburban,246
+2025-07-09,Wednesday,Lunch,Grilled Chicken,61,29.4,4.1,0,1,0,Downtown,509
+2025-06-11,Wednesday,Breakfast,Tacos,34,25.8,0.0,0,0,0,Suburban,163
+2025-07-17,Thursday,Lunch,Pasta,50,36.0,1.1,0,1,0,Suburban,290
+2025-07-28,Monday,Lunch,Pizza,64,23.3,0.6,0,0,0,Mall,320
+2025-07-28,Monday,Breakfast,Pizza,23,23.3,0.6,0,0,0,Suburban,351
+2025-06-04,Wednesday,Dinner,Veg Salad,40,28.9,0.3,0,0,1,Downtown,252
+2025-07-20,Sunday,Breakfast,Grilled Chicken,36,30.7,2.7,1,0,0,Mall,268
+2025-06-27,Friday,Lunch,Tacos,53,29.6,1.6,0,0,1,Mall,319
+2025-06-14,Saturday,Lunch,Pasta,69,25.4,0.8,1,0,1,Mall,318
+2025-07-29,Tuesday,Dinner,Pizza,38,28.2,0.6,0,0,1,Mall,420
+2025-07-16,Wednesday,Breakfast,Grilled Chicken,31,21.5,5.5,0,0,0,Downtown,288
+2025-06-26,Thursday,Dinner,Burger,24,26.6,3.4,0,1,0,Downtown,356
+2025-06-22,Sunday,Lunch,Burger,56,30.0,0.0,1,0,0,Downtown,221
+2025-07-07,Monday,Lunch,Veg Salad,73,24.9,0.7,0,1,1,Mall,551
+2025-07-15,Tuesday,Breakfast,Grilled Chicken,43,28.7,0.0,0,0,1,Suburban,291
+2025-07-02,Wednesday,Lunch,Veg Salad,48,30.1,0.3,0,1,0,Mall,416
+2025-06-02,Monday,Dinner,Grilled Chicken,21,32.2,1.3,0,0,0,Suburban,162
+2025-07-06,Sunday,Lunch,Tacos,50,29.4,0.0,1,0,0,Mall,187
+2025-06-24,Tuesday,Breakfast,Veg Salad,25,29.7,1.2,0,0,0,Suburban,387
+2025-07-12,Saturday,Dinner,Burger,32,25.2,1.3,1,0,0,Mall,191
+2025-07-16,Wednesday,Dinner,Burger,34,21.5,5.5,0,0,0,Mall,219
+2025-06-27,Friday,Dinner,Pizza,33,29.6,1.6,0,0,0,Mall,319
+2025-07-13,Sunday,Lunch,Burger,62,29.1,1.1,1,0,1,Downtown,274
+2025-07-11,Friday,Breakfast,Grilled Chicken,28,32.6,1.5,0,0,0,Mall,523
+2025-06-04,Wednesday,Breakfast,Pizza,31,28.9,0.3,0,0,0,Downtown,252
+2025-06-30,Monday,Breakfast,Pasta,33,29.3,0.4,0,0,0,Downtown,484
+2025-07-23,Wednesday,Lunch,Burger,61,24.0,0.6,0,0,1,Downtown,158
+2025-07-27,Sunday,Breakfast,Grilled Chicken,48,29.6,2.8,1,0,1,Mall,427
+2025-07-09,Wednesday,Dinner,Burger,36,29.4,4.1,0,1,0,Mall,421
+2025-07-27,Sunday,Breakfast,Burger,31,29.6,2.8,1,0,0,Suburban,80
+2025-07-06,Sunday,Dinner,Tacos,34,29.4,0.0,1,0,1,Mall,187
+2025-07-11,Friday,Dinner,Pizza,37,32.6,1.5,0,0,0,Suburban,234
+2025-06-07,Saturday,Lunch,Tacos,64,28.1,2.9,1,0,1,Mall,250
+2025-06-08,Sunday,Breakfast,Grilled Chicken,43,26.7,2.2,1,0,1,Suburban,391
+2025-06-23,Monday,Lunch,Pizza,44,30.1,0.6,0,0,0,Suburban,284
+2025-06-15,Sunday,Breakfast,Pasta,39,30.1,2.1,1,0,1,Downtown,276
+2025-07-21,Monday,Breakfast,Veg Salad,39,24.7,1.0,0,0,1,Suburban,235
+2025-07-26,Saturday,Breakfast,Burger,34,25.7,2.1,1,1,0,Suburban,389
+2025-07-06,Sunday,Lunch,Tacos,43,29.4,0.0,1,0,0,Suburban,175
+2025-07-10,Thursday,Breakfast,Pasta,31,27.3,0.8,0,0,0,Suburban,459
+2025-07-14,Monday,Breakfast,Veg Salad,40,29.2,1.9,0,0,1,Downtown,233
+2025-07-02,Wednesday,Breakfast,Pasta,31,30.1,0.3,0,1,0,Downtown,426
+2025-06-16,Monday,Lunch,Pizza,64,24.3,0.0,0,0,1,Mall,467
+2025-06-13,Friday,Breakfast,Grilled Chicken,41,22.6,0.0,0,1,0,Downtown,427
+2025-06-25,Wednesday,Breakfast,Tacos,27,25.6,0.0,0,0,0,Suburban,371
+2025-07-04,Friday,Lunch,Veg Salad,61,30.4,0.7,0,0,1,Mall,301
+2025-06-03,Tuesday,Breakfast,Pizza,23,27.9,1.2,0,0,0,Suburban,416
+2025-06-29,Sunday,Dinner,Tacos,32,29.5,0.9,1,0,0,Mall,403
+2025-07-27,Sunday,Breakfast,Pizza,32,29.6,2.8,1,0,0,Suburban,80
+2025-06-30,Monday,Lunch,Burger,46,29.3,0.4,0,0,0,Downtown,484
+2025-06-09,Monday,Breakfast,Pasta,30,24.3,0.0,0,0,0,Mall,234
+2025-07-29,Tuesday,Lunch,Veg Salad,40,28.2,0.6,0,0,0,Mall,420
+2025-07-09,Wednesday,Dinner,Tacos,31,29.4,4.1,0,1,0,Downtown,509
+2025-06-11,Wednesday,Breakfast,Grilled Chicken,42,25.8,0.0,0,0,1,Suburban,163
+2025-06-14,Saturday,Dinner,Pizza,33,25.4,0.8,1,0,0,Mall,318
+2025-07-27,Sunday,Dinner,Tacos,38,29.6,2.8,1,0,1,Mall,427
+2025-06-04,Wednesday,Breakfast,Pizza,29,28.9,0.3,0,0,0,Suburban,160
+2025-06-28,Saturday,Lunch,Pasta,77,31.4,2.0,1,0,1,Mall,278
+2025-07-12,Saturday,Breakfast,Tacos,32,25.2,1.3,1,0,0,Mall,191
+2025-07-12,Saturday,Breakfast,Pizza,39,25.2,1.3,1,0,1,Suburban,290
+2025-07-28,Monday,Breakfast,Veg Salad,37,23.3,0.6,0,0,1,Downtown,405
+2025-06-24,Tuesday,Breakfast,Tacos,28,29.7,1.2,0,0,0,Downtown,350
+2025-07-14,Monday,Lunch,Pasta,52,29.2,1.9,0,0,0,Mall,324
+2025-06-25,Wednesday,Dinner,Grilled Chicken,29,25.6,0.0,0,0,0,Mall,289
+2025-07-20,Sunday,Breakfast,Burger,29,30.7,2.7,1,0,0,Mall,268
+2025-06-04,Wednesday,Breakfast,Burger,26,28.9,0.3,0,0,0,Downtown,252
+2025-07-23,Wednesday,Dinner,Pizza,39,24.0,0.6,0,0,1,Mall,220
+2025-06-19,Thursday,Breakfast,Pizza,33,29.2,1.7,0,1,1,Mall,220
+2025-07-17,Thursday,Dinner,Pasta,31,36.0,1.1,0,1,0,Suburban,290
+2025-06-23,Monday,Breakfast,Veg Salad,23,30.1,0.6,0,0,0,Downtown,262
+2025-07-03,Thursday,Lunch,Burger,50,30.6,2.4,0,0,0,Downtown,272
+2025-06-29,Sunday,Breakfast,Pasta,35,29.5,0.9,1,0,0,Mall,403
+2025-07-10,Thursday,Lunch,Pasta,65,27.3,0.8,0,0,1,Downtown,246
+2025-07-16,Wednesday,Breakfast,Grilled Chicken,30,21.5,5.5,0,0,0,Mall,219
+2025-07-27,Sunday,Breakfast,Grilled Chicken,36,29.6,2.8,1,0,1,Suburban,80
+2025-07-12,Saturday,Lunch,Grilled Chicken,57,25.2,1.3,1,0,0,Mall,191
+2025-07-19,Saturday,Breakfast,Pizza,27,30.6,1.1,1,0,0,Mall,337
+2025-06-18,Wednesday,Lunch,Veg Salad,71,33.2,1.5,0,1,1,Suburban,246
+2025-06-02,Monday,Lunch,Burger,57,32.2,1.3,0,0,0,Suburban,162
+2025-06-01,Sunday,Breakfast,Veg Salad,26,29.5,0.8,1,0,0,Mall,205
+2025-07-01,Tuesday,Dinner,Veg Salad,28,26.4,2.0,0,0,0,Mall,230
+2025-06-12,Thursday,Breakfast,Veg Salad,27,28.3,0.0,0,1,0,Mall,340
+2025-07-24,Thursday,Breakfast,Tacos,22,28.7,2.4,0,0,0,Suburban,194
+2025-07-12,Saturday,Breakfast,Pizza,38,25.2,1.3,1,0,0,Downtown,396
+2025-07-04,Friday,Lunch,Pasta,56,30.4,0.7,0,0,0,Mall,301
+2025-06-21,Saturday,Dinner,Pizza,32,29.8,1.2,1,0,0,Mall,240
+2025-07-08,Tuesday,Lunch,Grilled Chicken,59,28.7,0.0,0,0,0,Suburban,317
+2025-06-12,Thursday,Dinner,Burger,28,28.3,0.0,0,1,0,Downtown,409
+2025-07-20,Sunday,Dinner,Pasta,30,30.7,2.7,1,0,0,Suburban,244
+2025-06-22,Sunday,Lunch,Grilled Chicken,47,30.0,0.0,1,0,0,Suburban,133
+2025-07-17,Thursday,Dinner,Veg Salad,34,36.0,1.1,0,1,0,Downtown,359
+2025-07-09,Wednesday,Breakfast,Pizza,26,29.4,4.1,0,1,0,Downtown,509
+2025-06-14,Saturday,Lunch,Pizza,49,25.4,0.8,1,0,0,Downtown,400
+2025-07-13,Sunday,Breakfast,Pasta,33,29.1,1.1,1,0,0,Downtown,274
+2025-07-19,Saturday,Dinner,Grilled Chicken,29,30.6,1.1,1,0,1,Mall,337
+2025-07-17,Thursday,Breakfast,Tacos,32,36.0,1.1,0,1,1,Downtown,359
+2025-07-13,Sunday,Dinner,Pasta,23,29.1,1.1,1,0,0,Suburban,166
+2025-06-17,Tuesday,Dinner,Pasta,31,29.7,0.9,0,0,0,Mall,311
+2025-06-30,Monday,Lunch,Pizza,45,29.3,0.4,0,0,0,Suburban,384
+2025-07-14,Monday,Lunch,Pizza,45,29.2,1.9,0,0,0,Mall,324
+2025-07-25,Friday,Lunch,Grilled Chicken,67,29.8,0.4,0,1,1,Downtown,318
+2025-07-28,Monday,Lunch,Grilled Chicken,53,23.3,0.6,0,0,0,Mall,320
+2025-06-24,Tuesday,Breakfast,Pasta,26,29.7,1.2,0,0,0,Suburban,387
+2025-07-25,Friday,Lunch,Pizza,63,29.8,0.4,0,1,0,Mall,550
+2025-07-29,Tuesday,Lunch,Pasta,57,28.2,0.6,0,0,0,Suburban,269
+2025-06-21,Saturday,Breakfast,Veg Salad,43,29.8,1.2,1,0,1,Mall,240
+2025-06-20,Friday,Dinner,Tacos,27,28.9,0.0,0,0,0,Downtown,300
+2025-06-11,Wednesday,Dinner,Burger,29,25.8,0.0,0,0,0,Mall,155
+2025-07-12,Saturday,Lunch,Burger,50,25.2,1.3,1,0,1,Downtown,396
+2025-07-05,Saturday,Lunch,Veg Salad,58,27.4,0.0,1,0,1,Mall,234
+2025-06-15,Sunday,Dinner,Pasta,30,30.1,2.1,1,0,0,Downtown,276
+2025-07-04,Friday,Breakfast,Pizza,39,30.4,0.7,0,0,1,Mall,301
+2025-07-29,Tuesday,Lunch,Burger,54,28.2,0.6,0,0,0,Downtown,419
+2025-07-06,Sunday,Dinner,Pizza,45,29.4,0.0,1,0,1,Downtown,254
+2025-06-20,Friday,Dinner,Pizza,25,28.9,0.0,0,0,0,Suburban,332
+2025-07-16,Wednesday,Lunch,Burger,51,21.5,5.5,0,0,0,Mall,219
+2025-07-20,Sunday,Dinner,Grilled Chicken,29,30.7,2.7,1,0,0,Suburban,244
+2025-06-03,Tuesday,Breakfast,Burger,48,27.9,1.2,0,0,1,Downtown,233
+2025-06-19,Thursday,Dinner,Pizza,39,29.2,1.7,0,1,0,Mall,220
+2025-06-12,Thursday,Breakfast,Tacos,38,28.3,0.0,0,1,0,Suburban,296
+2025-06-06,Friday,Breakfast,Veg Salad,37,25.6,1.9,0,0,0,Mall,252
+2025-07-19,Saturday,Dinner,Tacos,26,30.6,1.1,1,0,0,Mall,337
+2025-06-30,Monday,Breakfast,Tacos,24,29.3,0.4,0,0,0,Mall,416
+2025-07-24,Thursday,Lunch,Pizza,60,28.7,2.4,0,0,1,Mall,384
+2025-07-23,Wednesday,Lunch,Burger,56,24.0,0.6,0,0,0,Suburban,430
+2025-07-29,Tuesday,Lunch,Grilled Chicken,45,28.2,0.6,0,0,0,Suburban,269
+2025-07-12,Saturday,Lunch,Veg Salad,52,25.2,1.3,1,0,0,Mall,191
+2025-06-21,Saturday,Lunch,Grilled Chicken,48,29.8,1.2,1,0,0,Suburban,236
+2025-07-30,Wednesday,Dinner,Grilled Chicken,39,29.2,0.4,0,1,1,Downtown,237
+2025-07-02,Wednesday,Breakfast,Burger,35,30.1,0.3,0,1,0,Mall,416
+2025-06-14,Saturday,Dinner,Veg Salad,33,25.4,0.8,1,0,0,Suburban,-1
+2025-06-17,Tuesday,Breakfast,Pizza,43,29.7,0.9,0,0,1,Downtown,261
+2025-07-22,Tuesday,Breakfast,Burger,31,23.4,1.1,0,0,0,Suburban,319
+2025-06-26,Thursday,Lunch,Pizza,62,26.6,3.4,0,1,1,Mall,432
+2025-06-11,Wednesday,Breakfast,Grilled Chicken,26,25.8,0.0,0,0,0,Mall,155
+2025-07-23,Wednesday,Breakfast,Tacos,34,24.0,0.6,0,0,1,Suburban,430
+2025-07-14,Monday,Breakfast,Burger,32,29.2,1.9,0,0,0,Downtown,233
+2025-06-19,Thursday,Lunch,Pasta,53,29.2,1.7,0,1,0,Downtown,251
+2025-06-02,Monday,Dinner,Burger,25,32.2,1.3,0,0,0,Downtown,384
+2025-07-06,Sunday,Dinner,Veg Salad,27,29.4,0.0,1,0,0,Downtown,254
+2025-07-03,Thursday,Breakfast,Tacos,23,30.6,2.4,0,0,0,Downtown,272
+2025-07-11,Friday,Dinner,Veg Salad,27,32.6,1.5,0,0,0,Mall,523
+2025-07-05,Saturday,Breakfast,Pizza,26,27.4,0.0,1,0,0,Suburban,365
+2025-06-09,Monday,Breakfast,Burger,28,24.3,0.0,0,0,0,Mall,234
+2025-07-08,Tuesday,Breakfast,Grilled Chicken,49,28.7,0.0,0,0,1,Downtown,296
+2025-06-16,Monday,Breakfast,Pasta,26,24.3,0.0,0,0,1,Suburban,345
+2025-06-10,Tuesday,Lunch,Veg Salad,54,29.6,0.0,0,0,0,Mall,450
+2025-07-10,Thursday,Dinner,Burger,26,27.3,0.8,0,0,0,Downtown,246
+2025-06-25,Wednesday,Breakfast,Grilled Chicken,35,25.6,0.0,0,0,0,Suburban,371
+2025-06-28,Saturday,Dinner,Pasta,44,31.4,2.0,1,0,0,Mall,278
+2025-07-13,Sunday,Dinner,Burger,34,29.1,1.1,1,0,0,Downtown,274
+2025-06-30,Monday,Dinner,Pizza,32,29.3,0.4,0,0,0,Downtown,484
+2025-06-20,Friday,Breakfast,Grilled Chicken,31,28.9,0.0,0,0,0,Downtown,300
+2025-06-02,Monday,Breakfast,Pizza,31,32.2,1.3,0,0,0,Downtown,384
+2025-07-25,Friday,Breakfast,Grilled Chicken,46,29.8,0.4,0,1,1,Suburban,324
+2025-07-23,Wednesday,Dinner,Tacos,38,24.0,0.6,0,0,1,Suburban,430
+2025-07-23,Wednesday,Lunch,Tacos,47,24.0,0.6,0,0,0,Suburban,430
+2025-06-09,Monday,Lunch,Pasta,44,24.3,0.0,0,0,0,Downtown,380
+2025-07-11,Friday,Lunch,Burger,60,32.6,1.5,0,0,1,Suburban,234
+2025-06-26,Thursday,Lunch,Tacos,57,26.6,3.4,0,1,1,Downtown,356
+2025-06-04,Wednesday,Lunch,Tacos,64,28.9,0.3,0,0,0,Mall,356
+2025-07-03,Thursday,Dinner,Veg Salad,35,30.6,2.4,0,0,1,Downtown,272
+2025-06-11,Wednesday,Lunch,Grilled Chicken,41,25.8,0.0,0,0,0,Suburban,163
+2025-06-06,Friday,Lunch,Grilled Chicken,55,25.6,1.9,0,0,0,Mall,252
+2025-06-12,Thursday,Lunch,Grilled Chicken,47,28.3,0.0,0,1,0,Downtown,409
+2025-06-05,Thursday,Dinner,Pizza,33,30.3,0.0,0,0,0,Downtown,438
+2025-06-25,Wednesday,Breakfast,Grilled Chicken,33,25.6,0.0,0,0,0,Downtown,262
+2025-07-19,Saturday,Dinner,Burger,47,30.6,1.1,1,0,1,Mall,337
+2025-06-16,Monday,Lunch,Grilled Chicken,54,24.3,0.0,0,0,0,Downtown,225
+2025-06-16,Monday,Lunch,Veg Salad,52,24.3,0.0,0,0,0,Mall,467
+2025-06-03,Tuesday,Breakfast,Pasta,38,27.9,1.2,0,0,0,Downtown,233
+2025-06-26,Thursday,Lunch,Burger,47,26.6,3.4,0,1,0,Downtown,356
+2025-07-09,Wednesday,Lunch,Pizza,62,29.4,4.1,0,1,1,Suburban,264
+2025-07-20,Sunday,Lunch,Veg Salad,46,30.7,2.7,1,0,0,Suburban,244
+2025-06-17,Tuesday,Dinner,Pasta,25,29.7,0.9,0,0,0,Downtown,261
+2025-06-15,Sunday,Dinner,Pizza,34,30.1,2.1,1,0,1,Mall,437
+2025-06-09,Monday,Lunch,Pasta,53,24.3,0.0,0,0,0,Mall,234
+2025-06-15,Sunday,Dinner,Grilled Chicken,28,30.1,2.1,1,0,0,Downtown,276
+2025-07-02,Wednesday,Lunch,Tacos,46,30.1,0.3,0,1,0,Mall,416

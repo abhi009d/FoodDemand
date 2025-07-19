@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Food Demand Forecast</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 30px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            background: white;
+            padding: 25px;
+            border-radius: 8px;
+            max-width: 600px;
+            margin: auto;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        form {
+            display: grid;
+            grid-gap: 10px;
+        }
+        label {
+            font-weight: bold;
+        }
+        input, select {
+            padding: 8px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+        }
+        .btn {
+            background-color: #28a745;
+            color: white;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        .btn:hover {
+            background-color: #218838;
+        }
+        .result {
+            margin-top: 20px;
+            text-align: center;
+            font-size: 18px;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Restaurant Food Demand Forecast</h1>
+    <form method="POST" action="/predict_demand">
+        <label>Date</label>
+        <input type="date" name="date" required>
+
+        <label>Day of Week</label>
+        <select name="day_of_week" required>
+            <option value="Monday">Monday</option>
+            <option value="Tuesday">Tuesday</option>
+            <option value="Wednesday">Wednesday</option>
+            <option value="Thursday">Thursday</option>
+            <option value="Friday">Friday</option>
+            <option value="Saturday">Saturday</option>
+            <option value="Sunday">Sunday</option>
+        </select>
+
+        <label>Time of Day</label>
+        <select name="time_of_day" required>
+            <option value="Breakfast">Breakfast</option>
+            <option value="Lunch">Lunch</option>
+            <option value="Dinner">Dinner</option>
+        </select>
+
+        <label>Food Item</label>
+        <input type="text" name="food_item" required>
+
+        <label>Temperature (°C)</label>
+        <input type="number" name="temperature" step="0.1" required>
+
+        <label>Rainfall (mm)</label>
+        <input type="number" name="rainfall_mm" step="0.1" required>
+
+        <label>Holiday</label>
+        <select name="holiday" required>
+            <option value="Yes">Yes</option>
+            <option value="No">No</option>
+        </select>
+
+        <label>Local Event</label>
+        <select name="local_event" required>
+            <option value="Yes">Yes</option>
+            <option value="No">No</option>
+        </select>
+
+        <label>Promotion Active</label>
+        <select name="promotion_active" required>
+            <option value="Yes">Yes</option>
+            <option value="No">No</option>
+        </select>
+
+        <label>Restaurant Location</label>
+        <input type="text" name="restaurant_location" required>
+
+        <label>Customer Footfall</label>
+        <input type="number" name="customer_footfall" required>
+
+        <button class="btn" type="submit">Predict Demand</button>
+    </form>
+
+    {% if results %}
+        <div class="result">
+            <h3>{{ results }}</h3>
+        </div>
+    {% endif %}
+</div>
+
+</body>
+</html>

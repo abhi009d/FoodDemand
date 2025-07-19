@@ -1,7 +1,8 @@
 import os
 import sys
-import pandas as pd
 from dataclasses import dataclass
+
+import pandas as pd
 from sklearn.model_selection import train_test_split
 
 from src.exception import CustomException
@@ -20,27 +21,35 @@ class DataIngestion:
         self.ingestion_config = DataIngestionConfig()
 
     def initiate_data_ingestion(self):
-        logging.info("Entered the data ingestion component.")
-        try:
-            # Load dataset
-            df = pd.read_csv("notebook/data/data.csv")  # Update this path if needed
-            logging.info("Dataset loaded successfully.")
+        logging.info("📥 Starting data ingestion...")
 
-            # Create directories if not exist
+        try:
+            # Load the dataset
+            df = pd.read_csv("notebook/data/restaurant_food_demand.csv")
+            logging.info("✅ Dataset loaded successfully.")
+
+            # Optional: Print column names for debug
+            logging.info(f"Columns found in dataset: {df.columns.tolist()}")
+
+            # Check if 'orders' column exists
+            if "orders" not in df.columns:
+                raise CustomException("❌ Target column 'orders' not found in dataset.", sys)
+
+            # Create necessary directories
             os.makedirs(os.path.dirname(self.ingestion_config.raw_data_path), exist_ok=True)
 
             # Save raw data
             df.to_csv(self.ingestion_config.raw_data_path, index=False)
-            logging.info("Raw data saved.")
+            logging.info("💾 Raw data saved.")
 
-            # Split the data
+            # Train-test split
             train_set, test_set = train_test_split(df, test_size=0.2, random_state=42)
-            logging.info("Train-test split completed.")
+            logging.info("🔀 Train-test split completed.")
 
-            # Save train and test sets
+            # Save train and test datasets
             train_set.to_csv(self.ingestion_config.train_data_path, index=False)
             test_set.to_csv(self.ingestion_config.test_data_path, index=False)
-            logging.info("Train and test data saved.")
+            logging.info("✅ Train and test data saved.")
 
             return (
                 self.ingestion_config.train_data_path,
@@ -48,5 +57,5 @@ class DataIngestion:
             )
 
         except Exception as e:
-            logging.error("Error occurred in data ingestion.")
+            logging.error("❌ Error during data ingestion.")
             raise CustomException(e, sys)
